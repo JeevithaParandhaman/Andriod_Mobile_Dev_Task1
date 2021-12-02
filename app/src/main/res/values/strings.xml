@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="green">Green</string>
+
+
+
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="display">Display</string>
+    <string name="button_not_clicked">Button not clicked</string>
+</resources>
